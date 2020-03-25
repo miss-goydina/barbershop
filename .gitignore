@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+*.lnk
+node_modules/
+Thumbs.db
+commands.txt
+Contributing.md
